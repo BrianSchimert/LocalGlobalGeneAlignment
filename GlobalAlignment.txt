@@ -1,0 +1,14 @@
+Sequence 1 Info: 
+Name: s1    Length: 125
+
+
+
+Sequence 2 Info: 
+Name: s2    Length: 111
+
+
+
+Parameters: Match: 1   Mismatch: -2   h: -5   g: -2
+
+Global Optimal Score:  
+

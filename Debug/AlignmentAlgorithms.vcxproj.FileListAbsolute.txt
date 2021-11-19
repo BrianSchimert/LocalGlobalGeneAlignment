@@ -1,0 +1,4 @@
+C:\Users\brian\source\repos\AlignmentAlgorithms\Debug\AlignmentAlgorithms.exe
+C:\Users\brian\source\repos\AlignmentAlgorithms\Debug\AlignmentAlgorithms.pdb
+C:\Users\brian\Desktop\thisComputer\CompGenomics\PA1-Schimert\AlignmentAlgorithms\Debug\AlignmentAlgorithms.exe
+C:\Users\brian\Desktop\thisComputer\CompGenomics\PA1-Schimert\AlignmentAlgorithms\Debug\AlignmentAlgorithms.pdb

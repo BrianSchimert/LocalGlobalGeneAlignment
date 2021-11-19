@@ -1,0 +1,5 @@
+﻿  DPTable.cpp
+  main.cpp
+  Generating Code...
+C:\Users\brian\Desktop\thisComputer\CompGenomics\PA1-Schimert\AlignmentAlgorithms\DPTable.cpp(271): warning C4715: 'DPTable::maxOf': not all control paths return a value
+  AlignmentAlgorithms.vcxproj -> C:\Users\brian\Desktop\thisComputer\CompGenomics\PA1-Schimert\AlignmentAlgorithms\Debug\AlignmentAlgorithms.exe
